@@ -1,0 +1,186 @@
+        *{
+        	margin:0;
+        	padding:0;
+        }
+        a{
+        	list-style:none;
+        	text-decoration:none;
+        	color:black;
+        }
+        li{
+        	text-decoration:none;
+        	list-style:none;
+        }
+        .one{
+        	width:100%;
+        	height:30px;
+        	background-color:#ffffff;
+        }
+        .one1{
+        	float:left;
+        	margin-left:200px;
+        	margin-top:8px;
+        }
+        .one2{
+        	width:180px;
+        	height:10px;
+        	float:left;
+        	margin-left:400px;
+        	margin-top:8px;
+        	position:relative;
+        }
+        .one2 ul{
+        	float:right;
+        }
+        .one2 a:hover{
+            color:red;
+        }
+        .one ul li img{
+        	height:10px;
+        	margin-right:2px;
+        }
+        .one2 ul li {
+            float:left;
+        	font-size:10px;
+        }
+        .one2 ul li img{
+        	position:absolute;
+        	top:5px;
+        	left:95px;
+        }
+        .one3{
+        	width:100px;
+        	height:10px;
+        	float:left;
+            margin-left:25px;
+        }
+        .one3 a:hover{
+            color:red;
+        }
+        .one3 ul li{
+        	margin-top:8px;
+        	font-size:10px;
+        }
+        .two img{
+        	width:100%;
+        	height:500px;
+        }
+        .three{
+        	width:100%;
+        	height:250px;
+        	background-color:#222222;
+        }
+        .three1{
+        	float:left;
+        	width:260px;
+        	height:250px;
+        	margin-left:200px;
+        }
+        .three1 .a{
+        	position: relative;
+        }
+        .three1 .a div {
+        	position: absolute;
+        	width:260px;
+        	border:1px solid grey;
+        	top:48px;
+        }
+        .a img{
+        	float:right;
+        	margin-top:20px;
+        }
+        .a li{
+        	float:left;
+            margin-left:0px;
+            margin-top:20px;
+        }
+        .a li:first-child{
+
+        }
+        .a li a{
+        	color:#ffffff;
+        	margin-left:20px;
+        }
+        .a li a:hover{
+            color:red;
+        }
+        .b li:first-child{
+        	margin-top:10px;
+        }
+        .b li a{
+        	font-size:12px;
+        	color:#979896;
+        }
+        .b li a:hover{
+        	color:#ffffff;
+        }
+        .b li{
+        	float:left;
+        	margin-left:0px;
+        	margin-top:10px;
+        }
+        .three2{
+        	float:left;
+        	width:400px;
+        	height:250px;
+        	margin-left:10px;
+        }
+        .three2 img{
+        	width:400px;
+        	height:250px;
+        }
+        .three3{
+        	float:left;
+        	width:250px;
+        	height:250px;
+        	background-color:#333333;
+        }
+        .three3 div{
+        	margin:10px;
+        }
+        .three3 span{
+        	color:#979896;
+        	margin-left:15px;
+        }
+        .three3 span:nth-child(3){
+        	font-size:10px;
+        }
+        .three3 img{
+        	width:100px;
+        	height:30px;
+        	margin-left:70px;
+        	margin-top:10px;
+        }
+        .four{
+        	float:left;
+        	width:100%;
+        	height:120px;
+        	background:#2b1426;
+        }
+        .four1{
+        	float:left;
+        	width:120px;
+        	height:120px;
+        	margin-left:300px;
+        }
+        .four1 img{
+        	margin-top:10px;
+        	width:100px;
+        	height:100px;
+            float:left;
+        }
+        .four2{
+        	float:left;
+        	margin-left:100px;
+        }
+        .four2 span{
+        	font-size:14px;
+        	color:#9c6e91;
+        }
+        .four2 span:nth-last-child(3){
+        	font-size:12px;
+        }
+        .four2 span:last-child{
+            font-size:10px;
+        }
+
